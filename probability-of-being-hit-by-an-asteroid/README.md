@@ -33,7 +33,7 @@ This project aims to make space-related data more accessible and engaging throug
 
 - **Tableau Public** – For building the interactive dashboard
 - **Python / Excel** pre-processing of data
-- **Open meteorite landing datasets** – NASA Sentry (https://cneos.jpl.nasa.gov/sentry/) and Kaggle (https://www.kaggle.com/datasets/nasa/meteorite-landings)
+- **Open meteorite landing datasets** – [NASA Sentry](https://cneos.jpl.nasa.gov/sentry/) and [Kaggle](https://www.kaggle.com/datasets/nasa/meteorite-landings)
 
 ---
 
