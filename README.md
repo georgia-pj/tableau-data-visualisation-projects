@@ -8,7 +8,7 @@ Each project in this repository is housed in its own folder, complete with a Tab
 
 ## 🔍 Featured Projects
 
-### ☄️ [Asteroid Landings](./asteroid-landings/)
+### ☄️ [Asteroid Landings](./probability-of-being-hit-by-an-asteroid/)
 Explore global asteroid (meteorite) landings using historical data, in order to calculate associated probabilities. This dashboard visualizes mass, frequency, and geographic distribution of meteorites across centuries.
 
 ### 🧬 [How Medical Advancements Impacted 20th Century Growth](./medical-advancements-world-growth-dashboard/)
@@ -45,7 +45,7 @@ These dashboards can be adapted for:
 
 ## 📬 Contact
 
-If you’d like to collaborate, give feedback, or discuss data visualization opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/georgiapj) or reach out via GitHub.
+If you’d like to collaborate, give feedback, or discuss data visualization opportunities, feel free to connect with me on [LinkedIn](www.linkedin.com/in/georgiapj) or reach out via GitHub.
 
 ---
 
