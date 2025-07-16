@@ -1,6 +1,6 @@
 # 📊 Data Visualization Portfolio (Tableau)
 
-Welcome to my **Data Visualization Portfolio**, a collection of interactive dashboards and visual storytelling projects created using **Tableau**. These projects reflect my skills in **data analysis**, **design thinking**, and **communicating insights effectively through visual mediums**.
+Welcome to my **Data Visualization Portfolio**, a collection of interactive dashboards and visual storytelling projects created using **Tableau**. These projects showcase my skills in **data analysis**, **data preprocessing**, and **visual analytics**, with a focus on transforming complex datasets into intuitive, insight-rich visual narratives that support informed decision-making.
 
 Each project in this repository is housed in its own folder, complete with a Tableau workbook (`.twbx`), a `README.md` explaining the project, and static dashboard images for preview.
 
