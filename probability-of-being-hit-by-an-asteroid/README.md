@@ -4,6 +4,8 @@ This Tableau dashboard presents a visual exploration of **recorded asteroid land
 
 🔗 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/AsteroidLandings_17307978378250/Dashboard12?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+![Dashboard Preview](AsteroidsDashboard.png)  
+
 ---
 
 ## 🌍 Project Overview
