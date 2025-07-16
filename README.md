@@ -11,7 +11,7 @@ Each project in this repository is housed in its own folder, complete with a Tab
 ### ☄️ [Asteroid Landings](./asteroid-landings/)
 Explore global asteroid (meteorite) landings using historical data, in order to calculate associated probabilities. This dashboard visualizes mass, frequency, and geographic distribution of meteorites across centuries.
 
-### 🧬 [How Medical Advancements Impacted 20th Century Growth](./medical-growth-dashboard/)
+### 🧬 [How Medical Advancements Impacted 20th Century Growth](./medical-advancements-world-growth-dashboard/)
 Using Gapminder data, this dashboard explores how medical and healthcare progress influenced global population growth and life expectancy across regions.
 
 ---
