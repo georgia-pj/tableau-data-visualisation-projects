@@ -10,7 +10,7 @@ This Tableau dashboard explores the relationship between **medical advancements*
 
 ## 📚 Project Context
 
-This visualization was created using data from the **Gapminder Foundation**, specifically on **Fertility Rate**, **Life Expectancy**, and **Population**. The dataset forms the foundation of a well-known animated visualization by **Hans Rosling**, the late Swedish academic and data visionary, whose iconic [2006 TED Talk](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen) demonstrated the power of storytelling through data long before tools like Tableau became mainstream.
+This visualization was created using data from the **Gapminder Foundation**, specifically on **Fertility Rate**, **Life Expectancy**, and **Population**. The dataset forms the foundation of a well-known animated visualization by **Hans Rosling**, the late Swedish academic and data visionary, whose iconic [2006 TED Talk](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen) demonstrated the power of storytelling through data, long before tools like Tableau became mainstream.
 
 ---
 
@@ -30,7 +30,7 @@ This visualization was created using data from the **Gapminder Foundation**, spe
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tech Stack
 
 - **Tableau Public** – Interactive data visualization and dashboard design
 - **Data Sources** – Gapminder Fertility Rate, Life Expectancy and population Data. World GDP data from the Maddison Project Database.
@@ -55,7 +55,7 @@ This visualization was created using data from the **Gapminder Foundation**, spe
 
 ## 🧠 Author Notes
 
-This project combines an interest in data storytelling, historical analysis, and public health. It was created to explore how **scientific innovation** shapes real-world outcomes—an insight that connects strongly with decision-making in fields like **finance, policy, and technology**.
+This project combines an interest in data storytelling, historical analysis, and public health. It was created to explore how **scientific innovation** shapes real-world outcomes - an insight that connects strongly with decision-making in fields like **finance, policy, and technology**.
 
 ---
 
