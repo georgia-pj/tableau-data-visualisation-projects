@@ -19,7 +19,7 @@ Using Gapminder data, this dashboard explores how medical and healthcare progres
 ## 🛠️ Tools & Skills Demonstrated
 
 - **Tableau Public** – Interactive data dashboards
-- **Data Pre-processing** – Cleaning and structuring datasets in Excel or Python
+- **Data Pre-processing** – Cleaning and structuring datasets in Excel and Python
 - **Exploratory Data Analysis** – Identifying key trends and insights
 - **Data Storytelling** – Designing narratives that engage and inform
 - **Visual Design** – Clean, user-focused dashboard layouts
@@ -39,8 +39,8 @@ These dashboards can be adapted for:
 ## 🚀 Future Plans
 
 - Add dashboards focused on finance and economic trends
-- Integrate real-time data via APIs (e.g., NASA, World Bank, financial data)
-- 
+- Integrate real-time data via APIs (e.g. NASA, World Bank, yfinance etc )
+
 ---
 
 ## 📬 Contact
